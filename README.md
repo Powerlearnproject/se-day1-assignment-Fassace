@@ -71,4 +71,3 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague Prompt: "Tell me about technology."
 Improved Prompt: "Explain the impact of artificial intelligence on modern healthcare."
 Explanation: The improved prompt is more effective because it is clear, specific, and concise. It provides the AI with a focused topic, which leads to a more accurate and relevant response.
-
